@@ -1,2 +1,2 @@
 # MachineLearning
-Jouney to data science
+ML for data science
